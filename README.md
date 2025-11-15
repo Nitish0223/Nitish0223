@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I’m Nitish
 
-<!--
-**Nitish0223/Nitish0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a front-end developer who enjoys building fast, responsive, and user-centered web applications. I work primarily with HTML, CSS, JavaScript, React, and Redux, and I focus on writing clean, maintainable code with a strong attention to detail.
 
-Here are some ideas to get you started:
+💻 Passionate about crafting polished UI/UX experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Interested in modern web development, performance optimization, and component-driven design
+
+🚀 Actively building projects and improving my skills through hands-on practice
+
+🌱 Exploring backend fundamentals and expanding toward full-stack development
+
+📫 Connect with me
+
+Feel free to explore my repositories or reach out for collaborations.
