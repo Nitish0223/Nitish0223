@@ -1,6 +1,6 @@
 # Hi, I'm Nitish
 
-[![Crafting scalable cloud infrastructure | Automating CI/CD and GitOps pipelines | Kubernetes, Terraform, AWS EKS](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=2EA043&vCenter=true&width=560&lines=Crafting+scalable+cloud+infrastructure;Automating+CI%2FCD+and+GitOps+pipelines;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+AWS+EKS)](https://github.com/Nitish0223)
+[![Crafting scalable cloud infrastructure | Automating CI/CD and GitOps pipelines](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=2EA043&vCenter=true&width=700&height=50&lines=Crafting+scalable+cloud+infrastructure;Automating+CI%2FCD+and+GitOps+pipelines)](https://github.com/Nitish0223)
 
 **Aspiring DevOps Engineer** from India. I build and automate cloud infrastructure on AWS: CI/CD pipelines, Kubernetes, GitOps, infrastructure as code and monitoring.
 
