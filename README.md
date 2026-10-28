@@ -1,8 +1,10 @@
 # Hi, I'm Nitish
 
+[![Crafting scalable cloud infrastructure | Automating CI/CD and GitOps pipelines | Kubernetes, Terraform, AWS EKS](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=2EA043&vCenter=true&width=560&lines=Crafting+scalable+cloud+infrastructure;Automating+CI%2FCD+and+GitOps+pipelines;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+AWS+EKS)](https://github.com/Nitish0223)
+
 **Aspiring DevOps Engineer** from India. I build and automate cloud infrastructure on AWS: CI/CD pipelines, Kubernetes, GitOps, infrastructure as code and monitoring.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-mahakul-766b9a25a/) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-nitishmahakul02-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitishmahakul02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-mahakul-766b9a25a/) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitishmahakul02@gmail.com)
 
 ## Tech stack
 
